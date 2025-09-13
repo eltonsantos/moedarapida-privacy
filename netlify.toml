@@ -1,0 +1,3 @@
+# Netlify config opcional para sites estáticos simples
+[build]
+  publish = "."
